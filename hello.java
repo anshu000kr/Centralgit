@@ -1,2 +1,7 @@
-Myself Anshu Kumar from patna, Bihar.
-Having 2.5 years of experience in SOftware testing
+Class Hello
+{
+public static void main(String args[])
+{
+System.out.printIn("Hello from child")
+}
+}
